@@ -1,5 +1,7 @@
 # Instagram Hashtag Stats — Apify Actor usage guide
 
+[![Run for free on Apify](https://img.shields.io/badge/Apify-Run%20it%20free%20%E2%80%94%20%245%2Fmo%20credit-24C1E0)](https://console.apify.com/sign-up?fpr=aupara)
+
 Get total post count and top posts for any Instagram hashtag — no login required. Powered by real browser rendering for reliable results even on the most popular hashtags. Perfect for content strategy, trend monitoring and influencer research.
 
 > **This repository does not contain the Actor's source code.** The Actor
