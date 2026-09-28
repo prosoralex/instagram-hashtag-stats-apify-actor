@@ -21,7 +21,7 @@ RUN_INPUT = {
     "hashtags": [
         "travel"
     ],
-    "includeTopPosts": true,
+    "includeTopPosts": True,
     "maxTopPosts": 9,
     "concurrency": 3
 }
